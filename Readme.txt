@@ -9,6 +9,7 @@ INFO
  * This is a core java based project without any UI.
  * It intends to connect to a Restful API using HTTPClient component. The obtained response is a json string which is parsed and mapped to pojo using an api.
  * Results are processed and printed on console 
+ * ResultScreenshot.jpg file shows the running result
  
  What project do
  ====================
